@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test10_Final</string>
+
+    <string name="Sent_an_attachment">Sent an attachment</string>
+    <string name="Sent_a_voice_message">Sent a voice message</string>
+
+</resources>
